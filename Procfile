@@ -1,1 +1,0 @@
-web: ./prepare.sh
